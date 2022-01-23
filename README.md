@@ -32,18 +32,16 @@ Fetching the weather using the OpenWeather API with Python.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Fetch weather, work with API's;\
+:heavy_check_mark: Fetch weather, work with API's
 
 
 ## :rocket: Modules ##
 
 The following modules were used in this project:
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [dotenv]()
+- [os]()
+- [requests]()
 
 ## :white_check_mark: Requirements ##
 
